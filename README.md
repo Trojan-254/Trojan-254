@@ -1,11 +1,4 @@
-```plaintext
-$ echo "Hello there, I am Samwuel, welcome to my GitHub profile"
-
-Hello there, I am Samwuel, welcome to my GitHub profile
-```
-<!-- Title -->
-
-# Hello, I'm Samwuel Simiyu 👋
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Samwuel Simiyu</h2>
 
 ## Architecting Robust Systems | Crafting Stellar Digital Ecosystems
 
@@ -16,6 +9,8 @@ Welcome to my GitHub profile! I am Backend Developer, specializing in architecti
 Driven by a fervor for optimizing complex functionalities, I've spent the last three years honing my technical ingenuity. My focus extends beyond mere coding; it encompasses orchestrating intricate backend solutions where performance and reliability reign supreme.
 
 I take immense pride in the projects I've brought to life, unraveling challenges, and implementing innovative solutions. My expertise lies in refining application backbones, ensuring seamless data flow, and fortifying the foundations of exceptional user experiences.
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Technical Proficiencies
 
@@ -51,11 +46,8 @@ I take immense pride in the projects I've brought to life, unraveling challenges
 I'm on a constant quest to collaborate with like-minded engineers, data architects, and forward-thinking enterprises passionate about crafting stellar digital ecosystems. Let's transform visionary concepts into robust, real-world applications.
 
 📧 samwuels254@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/samwuel-s254/)
-🐦 [Twitter](https://twitter.com/SamwuelSimiyu)
-📘 [Medium](https://medium.com/@samwuels003)
-💼 [Upwork](https://www.upwork.com/freelancers/~01ca81fd15f037d725)
-
-
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samwuel-s254/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/SamwuelSimiyu)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@samwuels003)
+[![Upwork](https://img.shields.io/badge/-Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01ca81fd15f037d725)
 
