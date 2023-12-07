@@ -1,4 +1,8 @@
+```plaintext
+$ echo "Hello there, I am Samwuel, welcome to my GitHub profile"
 
+Hello there, I am Samwuel, welcome to my GitHub profile
+```
 <!-- Title -->
 
 # Hello, I'm Samwuel Simiyu 👋
@@ -32,6 +36,15 @@ I take immense pride in the projects I've brought to life, unraveling challenges
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+### ⚙️ &nbsp;GitHub Stats
+
+<p align="center">
+<a href="https://github.com/Trojan-254">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Trojan-254&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Trojan-254&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 
 ### Let's Collaborate
 
@@ -45,11 +58,4 @@ I'm on a constant quest to collaborate with like-minded engineers, data architec
 
 
 
-### ⚙️ &nbsp;GitHub Stats
 
-<p align="center">
-<a href="https://github.com/Trojan-254">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Trojan-254&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Trojan-254&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
