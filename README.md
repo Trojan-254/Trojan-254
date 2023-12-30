@@ -1,6 +1,6 @@
 # Hello, I'm Samwuel Simiyu 👋
 
-## Architecting Robust Systems | Crafting Stellar Digital Ecosystems
+## Architecting Robust Backend Software Systems
 
 Welcome to my GitHub profile! I am Backend Developer, specializing in architecting robust systems and engineering scalable software infrastructures. My passion lies in crafting digital ecosystems that surpass expectations.
 
