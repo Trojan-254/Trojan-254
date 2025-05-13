@@ -1,65 +1,66 @@
 # Samwuel Simiyu
 
-## Backend Software Engineer | System Architecture Specialist
+## Backend Architect | System Designer | Problem Solver
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samwuel-s254/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/SamwuelSimiyu)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@samwuels003)
 [![Upwork](https://img.shields.io/badge/-Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01ca81fd15f037d725)
-[![Profile Views](https://komarev.com/ghpvc/?username=Trojan-254&color=0e75b6&style=flat)](https://github.com/Trojan-254)
 
-## Engineering Reliable & Scalable Backend Systems
+> "I wasn't just consuming information, I was solving problems, building tools, and shaping ideas into real systems."
+
+## The Architecture Behind The Engineer
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="300"/>
 
-I design and implement high-performance backend infrastructures with a focus on reliability, scalability, and maintainability. My expertise lies in developing robust APIs, optimizing database architectures, and creating efficient microservices that form the backbone of exceptional digital products.
+I build digital foundations that others can't see but everyone relies on. My journey to backend engineering wasn't a straight path, it was a discovery of purpose when code first clicked and revealed what I was meant to build.
 
-### Professional Focus
+I specialize in crafting robust backend systems where reliability isn't just a feature, it's the foundation. Every API I design, every database I optimize, and every system I architect carries the same philosophy: **elegant solutions to complex problems**.
 
-- **System Architecture**: Designing scalable backend systems with attention to performance optimization
-- **API Development**: Creating well-documented, secure, and efficient REST/GraphQL APIs
-- **Database Engineering**: Implementing optimized schemas and query patterns across SQL and NoSQL databases
-- **Microservice Design**: Building modular, fault-tolerant service architectures
-- **Performance Optimization**: Identifying and resolving bottlenecks in complex systems
+### My Engineering Philosophy
 
-Over the past three years, I've dedicated myself to mastering backend technologies and architectural patterns that enable seamless, resilient systems. My approach balances technical excellence with practical implementation, ensuring solutions that not only work today but evolve effectively tomorrow.
+- **Build for tomorrow**: Systems that scale with your ambition
+- **Invisible excellence**: The best backend work is felt, not seen
+- **Thoughtful architecture**: Solving problems before they exist
+- **Continuous evolution**: Code is never finished, only released
 
-## Technical Expertise
+Behind every line of Rust, every database schema, and every API endpoint is a single question: "How will this serve the people who depend on it?" This isn't just work, it's craftsmanship with purpose.
+
+## Technical Arsenal
 
 ### Core Languages
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)&nbsp;
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 
-### Backend Frameworks
+### System Architecture
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq)&nbsp;
 
-### Database Technologies
+### Data Foundations
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)&nbsp;
 
-### Infrastructure & DevOps
+### DevOps & Infrastructure
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq)&nbsp;
 ![Puppet](https://img.shields.io/badge/-Puppet-FFAE1A?style=flat&logo=puppet)&nbsp;
 
-### Frontend Technologies
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+## My Journey: Finding Purpose Through Code
 
-### Development Tools
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+I started on a path that wasn't mine, a Bachelor of Education Degree program where memorization replaced creation. Something was missing: the ability to build, to solve, to shape ideas into reality.
 
-## GitHub Analytics
+Then came ALX Software Engineering, and with it, my first program. What I felt wasn't just accomplishment, it was recognition. **Curiosity with direction**. Problems became puzzles, not obstacles. Each bug fixed and system built aligned more with who I truly am: a builder at heart.
+
+Rust became my language of choice not because it was trendy, but because it demanded the precision and thoughtfulness that resonated with my approach to engineering. Backend and systems work drew me in because that's where the architecture matters most—where the foundations are laid that everything else depends on.
+
+## GitHub Footprint
 
 <p align="center">
 <a href="https://github.com/Trojan-254">
@@ -68,27 +69,37 @@ Over the past three years, I've dedicated myself to mastering backend technologi
 </a>
 </p>
 
-## Featured Projects
+## Engineering Highlights
 
-Here are some highlighted projects that demonstrate my technical capabilities:
+These projects aren't just lines of code—they're problems solved and systems crafted with purpose:
 
-- **[Project]** - Microservice architecture handling 10K+ concurrent requests with 99.9% uptime
-- **[Project]** - API gateway implementation with advanced rate limiting and authentication
-- **[Project]** - Database optimization reducing query times by 75% for a high-traffic application
+- **DNSFilter** - Custom DNS filtering service built in Rust that provides network-level protection against malicious domains and content filtering capabilities
+- **Rust HTTP Server** - Lightweight, high-performance HTTP server implementation in Rust focused on memory safety and minimal resource consumption
+- **Task Scheduler Engine** - Robust task scheduling system in Rust designed for reliability and precise execution timing
+- **InboxGuard** *(In Development)* - Email deliverability solution that ensures critical messages reach their destination by navigating the complex landscape of spam filters and email protocols
+- **ZetuCart** - Complete e-commerce platform with optimized backend architecture for seamless inventory management and transaction processing
+- **Mawonos** - Specialized e-commerce system for artisans selling handcrafted ornaments and paintings, with custom catalog management for unique items
+- **Open Source Contribution** - Active contributor to Hteapot HTTP server, improving performance and adding new capabilities to this community-driven project
 
-*Note: I'll be updating this section with specific project links and more detailed information soon.*
+*Each of these projects represents my commitment to building robust, efficient backend systems that solve real-world problems.*
 
-## Professional Collaboration
+## Let's Build Something Together
 
-I'm actively seeking opportunities to collaborate with forward-thinking teams on challenging backend projects. My ideal engagements involve:
+The most elegant systems are created through collaboration. I'm looking to partner with teams and projects that value:
 
-- Building scalable distributed systems
-- Optimizing existing backend architectures
-- Implementing robust data processing pipelines
-- Developing high-performance APIs
+- **Technical depth** with practical impact
+- **Thoughtful architecture** that anticipates growth
+- **Code that serves people**, not just machines
+- **Systems that scale** with your vision
 
-## Get in Touch
+Whether you're refining an existing system or building something new, I bring both technical expertise and a human-centered approach to every project.
 
-I'm always open to discussing new projects, technical challenges, or potential collaborations.
+## Connect With Me
+
+The best architectures aren't built in isolation. Let's talk about your vision and how we might build it together.
 
 📧 samwuels254@gmail.com
+
+---
+
+*"The best engineers don't just write code, they solve human problems with technical solutions."*
