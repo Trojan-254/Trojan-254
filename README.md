@@ -58,7 +58,7 @@ I started on a path that wasn't mine, a Bachelor of Education Degree program whe
 
 Then came ALX Software Engineering, and with it, my first program. What I felt wasn't just accomplishment, it was recognition. **Curiosity with direction**. Problems became puzzles, not obstacles. Each bug fixed and system built aligned more with who I truly am: a builder at heart.
 
-Rust became my language of choice not because it was trendy, but because it demanded the precision and thoughtfulness that resonated with my approach to engineering. Backend and systems work drew me in because that's where the architecture matters most—where the foundations are laid that everything else depends on.
+Rust became my language of choice not because it was trendy, but because it demanded the precision and thoughtfulness that resonated with my approach to engineering. Backend and systems work drew me in because that's where the architecture matters most where the foundations are laid that everything else depends on.
 
 ## GitHub Footprint
 
