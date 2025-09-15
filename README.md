@@ -71,7 +71,7 @@ Rust became my language of choice not because it was trendy, but because it dema
 
 ## Engineering Highlights
 
-These projects aren't just lines of code—they're problems solved and systems crafted with purpose:
+These projects aren't just lines of code they're problems solved and systems crafted with purpose:
 
 - **DNSFilter** - Custom DNS filtering service built in Rust that provides network-level protection against malicious domains and content filtering capabilities
 - **Rust HTTP Server** - Lightweight, high-performance HTTP server implementation in Rust focused on memory safety and minimal resource consumption
