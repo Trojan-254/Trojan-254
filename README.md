@@ -65,7 +65,6 @@ Rust became my language of choice not because it was trendy, but because it dema
 <p align="center">
 <a href="https://github.com/Trojan-254">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Trojan-254&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Trojan-254&layout=compact&langs_count=30&theme=algolia"/>
 </a>
 </p>
 
