@@ -71,6 +71,8 @@ Rust became my language of choice not because it was trendy, but because it dema
 
 These projects aren't just lines of code they're problems solved and systems crafted with purpose:
 
+- **StackVerify** *(Co-Founder & CTO)* - A bulk messaging SaaS platform serving Kenyan businesses (schools, SACCOs, clinics, retailers, logistics) across SMS, WhatsApp, and email. Architected the full stack: a Laravel/PHP core alongside Node.js/TypeScript microservices, RabbitMQ for async job processing, PostgreSQL and Redis, with Infobip handling delivery. Deployed and maintained on a VPS with Docker and PM2, currently serving over 100 active workspace users.
+- **Ngala English Hub** - An interactive English learning platform built for Kenyan secondary students preparing for KCSE and the new CBE curriculum. Designed the database schema and seeded a full KCSE-quality grammar question bank across 15 topics, alongside Reading Comprehension, Past Papers, and Vocabulary Builder modules. Includes an Afrocentric gamification system (XP, badges, leaderboard) and Brilliant.org-style interactive exercises like sentence construction, register sliders, and argument mapping.
 - **DNSFilter** - Custom DNS filtering service built in Rust that provides network-level protection against malicious domains and content filtering capabilities
 - **Rust HTTP Server** - Lightweight, high-performance HTTP server implementation in Rust focused on memory safety and minimal resource consumption
 - **Task Scheduler Engine** - Robust task scheduling system in Rust designed for reliability and precise execution timing
