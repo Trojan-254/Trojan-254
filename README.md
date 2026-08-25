@@ -76,7 +76,7 @@ These projects aren't just lines of code they're problems solved and systems cra
 - **DNSFilter** - Custom DNS filtering service built in Rust that provides network-level protection against malicious domains and content filtering capabilities
 - **Rust HTTP Server** - Lightweight, high-performance HTTP server implementation in Rust focused on memory safety and minimal resource consumption
 - **Task Scheduler Engine** - Robust task scheduling system in Rust designed for reliability and precise execution timing
-- **InboxGuard** *(In Development)* - Email deliverability solution that ensures critical messages reach their destination by navigating the complex landscape of spam filters and email protocols
+- **InboxGuard** - Email deliverability solution that ensures critical messages reach their destination by navigating the complex landscape of spam filters and email protocols
 - **ZetuCart** - Complete e-commerce platform with optimized backend architecture for seamless inventory management and transaction processing
 - **Mawonos** - Specialized e-commerce system for artisans selling handcrafted ornaments and paintings, with custom catalog management for unique items
 - **Open Source Contribution** - Active contributor to Hteapot HTTP server, improving performance and adding new capabilities to this community-driven project
